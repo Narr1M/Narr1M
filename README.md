@@ -8,7 +8,7 @@
 * Languages: Java, Python, C, SQL
 * Backend: Spring Boot, Spring Security, JDBC, JUnit 5, Mockito, REST APIs
 * Database: PostgreSQL, MySQL, H2 (Testing)
-* Tools & DevOps: Git, Docker, Maven, Gradle, IntelliJ IDEA, Microsoft Visual Studio Code
+* Tools & DevOps: Git, Docker, Maven, Gradle, IntelliJ IDEA, Visual Studio Code
 * Frontend: HTML5, CSS3, Thymeleaf
   
 **Software Engineering Skills & Concepts:**  
